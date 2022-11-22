@@ -1,0 +1,116 @@
+ body{
+
+    background-color: rgb(238, 228, 204);
+    
+
+} 
+
+header
+{
+    background-image: url(bulle-d-eclat-2.jpg);
+     text-align: center;
+     /* width: 1380px;
+    position: fixed; */
+     
+}
+footer
+{
+    background-color: rgb(4, 41, 28);
+    
+}
+
+#joie
+{
+    color: rgb(212, 185, 120);
+    text-align: right;
+    
+    background-color: rgb(4, 41, 28);
+ 
+ 
+}
+#text
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin: 2em;
+    text-align: center;
+    color: rgb(163, 50, 50);
+   
+}
+
+.image
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 2em;
+    
+}
+#info
+{
+
+    color: rgb(226, 175, 108);
+} 
+a
+{
+    color: rgb(226, 175, 108);
+    text-decoration: none;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+#lien
+{
+    background-color: rgb(4, 41, 28);
+}
+#pied
+{
+    color: rgb(226, 175, 108);
+    text-align: center; 
+
+} 
+
+
+#formulaire
+{
+    margin: 5em;
+    
+    border:1px solid rgb(4, 41, 28);
+    border-radius:5px;
+    width:420px;
+     box-shadow:2px 2px 2px rgb(4, 41, 28)inset; 
+    text-align: center;
+    background-color:rgb(44, 95, 77) ;
+   
+}
+label
+{
+    border:1px solid rgb(4, 41, 28);
+    
+    width:400px;
+    box-shadow:2px 2px 2px rgb(4, 41, 28)inset; 
+    text-align: left;
+    margin-top: 1em; 
+    background-color:  rgb(4, 41, 28);
+    color: burlywood;
+}
+
+button
+{
+    width:100px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px  rgb(4, 41, 28);
+    cursor:pointer;
+    background-color: rgb(4, 41, 28);
+    color: burlywood;
+}
+
+ input 
+ {
+        padding:3px;
+        border:1px solid rgb(4, 41, 28);
+       
+        width:400px;
+        height: 40px;
+        box-shadow:1px 1px 2px rgb(4, 41, 28)inset;
+        background-color:  blanchedalmond;
+
+}
